@@ -12,14 +12,14 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          👋 Coming soon
+          Coming soon
         </h1>
         <br></br>
 
         <p className={styles.description}>
         <img src="/LogicSymmetry.svg" alt="Logic Symmetry Logo" className={styles.logoTop} />Logic Symmetry{' '}
         </p>
-        <p className={styles.code}>We are working on the full version of our new site and will be back shortly.</p>
+        <p className={styles.code}>👋 Hi, We are working on the full version of our new site and will be back shortly.</p>
         <div className={styles.grid}>
           <a href="mailto:heli.herrera.dev@gmail.com" target="_blank" className={styles.card}>
             <h3><img src="/Gmail-Logo.png" alt="LogicSymmetry Logo" className={styles.logo} />Contact us &rarr;</h3>
