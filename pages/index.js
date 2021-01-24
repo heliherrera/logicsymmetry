@@ -16,8 +16,8 @@ export default function Home() {
 
         <p className={styles.description}>
         <img src="/LogicSymmetry.svg" alt="Logic Symmetry Logo" className={styles.logoTop} />Logic Symmetry{' '}
-          {/* <code className={styles.code}>pages/index.js</code> */}
         </p>
+        <p className={styles.code}>We are working on the full version of our new site and will be back shortly.</p>
 
         <div className={styles.grid}>
           <a href="mailto:heli.herrera.dev@gmail.com" target="_blank" className={styles.card}>
