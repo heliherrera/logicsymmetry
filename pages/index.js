@@ -26,13 +26,13 @@ export default function Home() {
             <p>heli.herrera.dev@gmail.com</p>
           </a>
 
-          <a href="https://twitter.com/Heli_Herrera" className={styles.card}>
+          <a href="https://twitter.com/Heli_Herrera" target="_blank" className={styles.card}>
             <h3><img src="/twitter-logo.png" alt="LogicSymmetry Logo" className={styles.logo} /> Twitter &rarr;</h3>
             <p>https://twitter.com/Heli_Herrera</p>
           </a>
 
           <a
-            href="https://github.com/heliherrera"
+            href="https://github.com/heliherrera" target="_blank"
             className={styles.card}
           >
             <h3><img src="/github-logo.png" alt="LogicSymmetry Logo" className={styles.logo} /> Github &rarr;</h3>
@@ -40,7 +40,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://dribbble.com/heliherrera"
+            href="https://dribbble.com/heliherrera" target="_blank"
             className={styles.card}
           >
              
