@@ -7,7 +7,7 @@ export default function Home() {
       <Head>
         <title>Logic Symmetry</title>
         <link rel="icon" href="/favicon.ico" />
-      
+      <script async defer data-website-id="9352a92d-0dd4-4857-a163-59e1f3fa06f0" src="http://localhost:3000/umami.js"></script>
       </Head>
 
       <main className={styles.main}>
