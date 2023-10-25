@@ -1,0 +1,26 @@
+.div-button {
+    text-align: center;
+}
+
+.custom-button {
+    width: 200px;
+    height: 55px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    text-align: center;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    background-color: #25aae1;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.custom-button:hover {
+    background-color: #006400;
+    /* Dark Green Color */
+}
+
+.custom-button:focus {
+    outline: none;
+}
